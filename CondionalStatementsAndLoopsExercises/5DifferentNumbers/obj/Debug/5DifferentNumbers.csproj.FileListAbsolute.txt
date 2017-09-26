@@ -1,0 +1,6 @@
+c:\users\petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\5DifferentNumbers\bin\Debug\5DifferentNumbers.exe.config
+c:\users\petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\5DifferentNumbers\bin\Debug\5DifferentNumbers.exe
+c:\users\petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\5DifferentNumbers\bin\Debug\5DifferentNumbers.pdb
+c:\users\petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\5DifferentNumbers\obj\Debug\5DifferentNumbers.exe
+c:\users\petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\5DifferentNumbers\obj\Debug\5DifferentNumbers.pdb
+c:\users\petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\5DifferentNumbers\obj\Debug\5DifferentNumbers.csprojResolveAssemblyReference.cache

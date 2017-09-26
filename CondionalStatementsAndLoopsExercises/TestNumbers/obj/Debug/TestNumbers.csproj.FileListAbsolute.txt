@@ -1,0 +1,6 @@
+C:\Users\Petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\TestNumbers\bin\Debug\TestNumbers.exe.config
+C:\Users\Petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\TestNumbers\bin\Debug\TestNumbers.exe
+C:\Users\Petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\TestNumbers\bin\Debug\TestNumbers.pdb
+C:\Users\Petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\TestNumbers\obj\Debug\TestNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\TestNumbers\obj\Debug\TestNumbers.exe
+C:\Users\Petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\TestNumbers\obj\Debug\TestNumbers.pdb

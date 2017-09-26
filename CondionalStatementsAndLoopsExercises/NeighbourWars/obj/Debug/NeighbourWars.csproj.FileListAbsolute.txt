@@ -1,0 +1,5 @@
+C:\Users\Petar\Documents\Visual Studio 2017\Projects\CondionalStatementsAndLoopsExercises\NeighbourWars\bin\Debug\NeighbourWars.exe.config
+C:\Users\Petar\Documents\Visual Studio 2017\Projects\CondionalStatementsAndLoopsExercises\NeighbourWars\bin\Debug\NeighbourWars.exe
+C:\Users\Petar\Documents\Visual Studio 2017\Projects\CondionalStatementsAndLoopsExercises\NeighbourWars\bin\Debug\NeighbourWars.pdb
+C:\Users\Petar\Documents\Visual Studio 2017\Projects\CondionalStatementsAndLoopsExercises\NeighbourWars\obj\Debug\NeighbourWars.exe
+C:\Users\Petar\Documents\Visual Studio 2017\Projects\CondionalStatementsAndLoopsExercises\NeighbourWars\obj\Debug\NeighbourWars.pdb

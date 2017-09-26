@@ -1,0 +1,5 @@
+C:\Users\Petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\test\bin\Debug\test.exe.config
+C:\Users\Petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\test\bin\Debug\test.exe
+C:\Users\Petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\test\bin\Debug\test.pdb
+C:\Users\Petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\test\obj\Debug\test.exe
+C:\Users\Petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\test\obj\Debug\test.pdb

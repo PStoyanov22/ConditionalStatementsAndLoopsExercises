@@ -1,0 +1,6 @@
+c:\users\petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\Problem1\bin\Debug\Problem1.exe.config
+c:\users\petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\Problem1\bin\Debug\Problem1.exe
+c:\users\petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\Problem1\bin\Debug\Problem1.pdb
+c:\users\petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\Problem1\obj\Debug\Problem1.exe
+c:\users\petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\Problem1\obj\Debug\Problem1.pdb
+c:\users\petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\Problem1\obj\Debug\WordInPlural.csprojResolveAssemblyReference.cache

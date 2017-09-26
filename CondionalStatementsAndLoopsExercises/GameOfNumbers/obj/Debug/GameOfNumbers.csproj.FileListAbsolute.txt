@@ -1,0 +1,6 @@
+C:\Users\Petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\GameOfNumbers\bin\Debug\GameOfNumbers.exe.config
+C:\Users\Petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\GameOfNumbers\bin\Debug\GameOfNumbers.exe
+C:\Users\Petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\GameOfNumbers\bin\Debug\GameOfNumbers.pdb
+C:\Users\Petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\GameOfNumbers\obj\Debug\GameOfNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\GameOfNumbers\obj\Debug\GameOfNumbers.exe
+C:\Users\Petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\GameOfNumbers\obj\Debug\GameOfNumbers.pdb

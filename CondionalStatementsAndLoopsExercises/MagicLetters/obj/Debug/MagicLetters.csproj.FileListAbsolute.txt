@@ -1,0 +1,6 @@
+C:\Users\Petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\MagicLetters\obj\Debug\MagicLetters.csprojResolveAssemblyReference.cache
+C:\Users\Petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\MagicLetters\bin\Debug\MagicLetters.exe.config
+C:\Users\Petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\MagicLetters\bin\Debug\MagicLetters.exe
+C:\Users\Petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\MagicLetters\bin\Debug\MagicLetters.pdb
+C:\Users\Petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\MagicLetters\obj\Debug\MagicLetters.exe
+C:\Users\Petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\MagicLetters\obj\Debug\MagicLetters.pdb

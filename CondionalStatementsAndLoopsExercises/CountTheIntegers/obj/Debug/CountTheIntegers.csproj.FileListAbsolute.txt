@@ -1,0 +1,6 @@
+c:\users\petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\CountTheIntegers\bin\Debug\CountTheIntegers.exe.config
+c:\users\petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\CountTheIntegers\bin\Debug\CountTheIntegers.exe
+c:\users\petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\CountTheIntegers\bin\Debug\CountTheIntegers.pdb
+c:\users\petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\CountTheIntegers\obj\Debug\CountTheIntegers.csprojResolveAssemblyReference.cache
+c:\users\petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\CountTheIntegers\obj\Debug\CountTheIntegers.exe
+c:\users\petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\CountTheIntegers\obj\Debug\CountTheIntegers.pdb

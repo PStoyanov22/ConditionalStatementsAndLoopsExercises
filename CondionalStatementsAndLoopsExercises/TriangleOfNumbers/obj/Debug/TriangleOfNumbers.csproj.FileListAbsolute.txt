@@ -1,0 +1,6 @@
+c:\users\petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.exe.config
+c:\users\petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.exe
+c:\users\petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.pdb
+c:\users\petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\TriangleOfNumbers\obj\Debug\TriangleOfNumbers.csprojResolveAssemblyReference.cache
+c:\users\petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\TriangleOfNumbers\obj\Debug\TriangleOfNumbers.exe
+c:\users\petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\TriangleOfNumbers\obj\Debug\TriangleOfNumbers.pdb

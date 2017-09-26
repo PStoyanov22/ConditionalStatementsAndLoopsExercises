@@ -1,0 +1,6 @@
+c:\users\petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\Hotel\obj\Debug\Hotel.csprojResolveAssemblyReference.cache
+c:\users\petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\Hotel\bin\Debug\Hotel.exe.config
+c:\users\petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\Hotel\bin\Debug\Hotel.exe
+c:\users\petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\Hotel\bin\Debug\Hotel.pdb
+c:\users\petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\Hotel\obj\Debug\Hotel.exe
+c:\users\petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\Hotel\obj\Debug\Hotel.pdb

@@ -1,0 +1,5 @@
+c:\users\petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\CaloriesCounter\bin\Debug\CaloriesCounter.exe.config
+c:\users\petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\CaloriesCounter\bin\Debug\CaloriesCounter.exe
+c:\users\petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\CaloriesCounter\bin\Debug\CaloriesCounter.pdb
+c:\users\petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\CaloriesCounter\obj\Debug\CaloriesCounter.exe
+c:\users\petar\documents\visual studio 2017\Projects\CondionalStatementsAndLoopsExercises\CaloriesCounter\obj\Debug\CaloriesCounter.pdb
