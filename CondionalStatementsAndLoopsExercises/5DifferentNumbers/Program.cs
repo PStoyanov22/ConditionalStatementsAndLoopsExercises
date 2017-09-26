@@ -16,6 +16,8 @@ namespace _5DifferentNumbers
 
 
             int interval = Math.Abs(firstNum - secondNum);
+            
+            int caseStudy = Console.ReadLine();
 
 
            
