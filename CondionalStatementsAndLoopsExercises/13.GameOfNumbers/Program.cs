@@ -31,7 +31,16 @@ namespace GameOfNumbers
 
                     combinations++;
                 }
-            }
+
+                    if (j + i == magicalNumber)
+                    {
+                        Console.WriteLine($"Number found! {j} + {i} = {magicalNumber}");
+                        return;
+                    }
+
+
+
+         }
             Console.WriteLine($"{combinations} combinations - neither equals {magicalNumber}");
         }
     }
