@@ -15,32 +15,24 @@ namespace GameOfNumbers
             int magicalNumber = int.Parse(Console.ReadLine());
 
             int combinations = 0;
-            int lastCombination;
+
 
             for (int i = firstNumber; i <= secondNumber; i++)
             {
                 for (int j = firstNumber; j <= secondNumber; j++)
                 {
+
+
+                    if (j + i == magicalNumber)
+                    {
+                        Console.WriteLine($"Number found! {j} + {i} = {magicalNumber}");
+                        return;
+                    }
+
                     combinations++;
-
-                    int biggestI = i;
-                    biggestI++;
-                    if (biggestI > j && ((biggestI + j) == magicalNumber))
-                    {
-                        Console.WriteLine($"Number found! {biggestI}+{j} = {magicalNumber}, {combinations}");
-                    }
-                    if (!(biggestI + j == magicalNumber))
-
-                    {
-                        Console.WriteLine($"Total combinations: {combinations} combinations – neither equals {magicalNumber}");
-                    }
-
-
-
                 }
-                
-
             }
+            Console.WriteLine($"{combinations} combinations - neither equals {magicalNumber}");
         }
     }
 }
