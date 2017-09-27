@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,32 +15,24 @@ namespace GameOfNumbers
             int magicalNumber = int.Parse(Console.ReadLine());
 
             int combinations = 0;
-            int lastCombination;
+
 
             for (int i = firstNumber; i <= secondNumber; i++)
             {
                 for (int j = firstNumber; j <= secondNumber; j++)
                 {
-                    combinations++;
+                   
 
-                    int biggestI = i;
-                    biggestI++;
-                    if (biggestI > j && ((biggestI + j) == magicalNumber))
+                    if (j + i == magicalNumber)
                     {
-                        Console.WriteLine($"Number found! {biggestI}+{j} = {magicalNumber}, {combinations}");
+                        Console.WriteLine($"Number found! {j} + {i} = {magicalNumber}");
+                        return;
                     }
-                    if (!(biggestI + j == magicalNumber))
-
-                    {
-                        Console.WriteLine($"Total combinations: {combinations} combinations – neither equals {magicalNumber}");
-                    }
-
-
-
-                }
                 
-
+                    combinations++;
+                }                                
             }
+            Console.WriteLine($"{combinations} combinations - neither equals {magicalNumber}");
         }
     }
 }
